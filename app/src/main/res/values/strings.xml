@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Manu</string>
+    <string name="app_name">AppMoviles</string>
+    <string name="titulo1">DEMONS SLAYER</string>
+    <string name="titulo2">ONCE PIECE</string>
+    <string name="titulo3">NARUTO</string>
+    <string name="titulo4">DRAGON BALL</string>
+    <string name="titulo5">BLACK OVER</string>
+    <string name="titulo6">MY HERO ACADEMIA</string>
+    <string name="titulo7">SUPER CAMPEONES</string>
+    <string name="titulo8">CHAINSAW MAN</string>
+    <string name="descargar">DESCARGAR PDF</string>
+    <string name="btn_si">SI</string>
+    <string name="btn_no">NO</string>
 </resources>

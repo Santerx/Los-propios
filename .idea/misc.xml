@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/drawable/colorboton.xml" value="0.2985" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/drawable/colorfondo.xml" value="0.2985" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton1.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton2.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton3.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton4.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton5.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton6.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton7.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_boton8.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/activity_main.xml" value="0.3429128105211885" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/alertdialog - copia.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/jeffe/AppMoviles/app/src/main/res/layout/alertdialog.xml" value="0.29936594202898553" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
