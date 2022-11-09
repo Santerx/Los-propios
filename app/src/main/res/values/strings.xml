@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">empty_activity</string>
+
+    <string name="navigation_draw_open">open navigation drawer</string>
+    <string name="navigation_draw_close">close navigation drawer</string>
+    <string name="nombre">Agregar Nombre</string>
+    <string name="password">Agregar password</string>
+    <string name="correo">Agregar Correo</string>
+    <string name="contraseña">Agregar Contraseña</string>
+    <string name="guardar">Guardar Registro</string>
+    <string name="Menu_nuevo">Nuevo Registro</string>
+    <string name="Menu_ver">Ver Registros</string>
+    <string name="usuario">Usuario</string>
+    <string name="gmail">usuario@gmail.com</string>
+    <string name="titulo1">DEMONS SLAYER</string>
+    <string name="titulo2">ONCE PIECE</string>
+    <string name="titulo3">NARUTO</string>
+    <string name="titulo4">DRAGON BALL</string>
+    <string name="titulo5">BLACK OVER</string>
+    <string name="titulo6">MY HERO ACADEMIA</string>
+    <string name="titulo7">SUPER CAMPEONES</string>
+    <string name="titulo8">CHAINSAW MAN</string>
+    <string name="descargar">DESCARGAR PDF</string>
+    <string name="btn_si">SI</string>
+    <string name="btn_no">NO</string>
+</resources>
