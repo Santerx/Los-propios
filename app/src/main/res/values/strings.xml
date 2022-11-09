@@ -23,4 +23,9 @@
     <string name="descargar">DESCARGAR PDF</string>
     <string name="btn_si">SI</string>
     <string name="btn_no">NO</string>
+    <string name="title_activity_config">config</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="theme">Dark theme</string>
 </resources>

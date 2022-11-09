@@ -23,7 +23,7 @@ public class boton7 extends AppCompatActivity {
         botonvolver.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(boton7.this, MainActivity.class);
+                Intent intent = new Intent(boton7.this, Principal.class);
                 startActivity(intent);
             }
         });

@@ -17,15 +17,21 @@
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_boton4.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_boton5.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_boton6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_boton7.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_boton8.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_config.xml" value="0.22" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_main2.xml" value="0.33" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_main3.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/activity_principal.xml" value="0.25" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/alertdialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/layout/view_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/empty_activity/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
     </option>

@@ -76,7 +76,7 @@ public class MainActivity2 extends AppCompatActivity {
                     @Override
                     public void onSuccess(Void unused) {
                         finish();
-                        startActivity(new Intent(MainActivity2.this, MainActivity3.class));
+                        startActivity(new Intent(MainActivity2.this, login.class));
                         Toast.makeText(MainActivity2.this, "Usuario registrado", Toast.LENGTH_SHORT).show();
                     }
                 }).addOnFailureListener(new OnFailureListener() {

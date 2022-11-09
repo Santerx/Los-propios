@@ -70,7 +70,7 @@
                 android:drawablePadding="12dp"
                 android:ems="10"
                 android:hint="Correo"
-                android:inputType="textPersonName"
+                android:inputType="textEmailAddress"
                 android:paddingStart="12dp"
                 android:paddingEnd="12dp"
                 android:textSize="14dp" />
@@ -87,7 +87,7 @@
                 android:drawablePadding="12dp"
                 android:ems="10"
                 android:hint="Contraseña"
-                android:inputType="textPersonName"
+                android:inputType="textPassword"
                 android:paddingStart="12dp"
                 android:paddingEnd="12dp"
                 android:textSize="14dp" />

@@ -10,12 +10,12 @@
             android:title="Home" />
 
     </group>
-    <item android:title="Login">
+    <item android:title="Ver Registros">
 
         <menu>
             <group android:checkableBehavior="single">
                 <item
-                    android:id="@+id/login"
+                    android:id="@+id/ver"
                     android:icon="@drawable/ic_eye"
                     android:title="Ver" />
             </group>
@@ -43,6 +43,18 @@
                     android:id="@+id/creditos"
                     android:icon="@drawable/ic_supervised"
                     android:title="Creditos"></item>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Cerrar sesion">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/cerrar"
+                    android:icon="@drawable/ic_baseline_login_24"
+                    android:title="Cerrar Sesion"></item>
             </group>
         </menu>
     </item>

@@ -16,6 +16,24 @@
         android:theme="@style/Theme.Design.Light.NoActionBar"
         tools:targetApi="31">
         <activity
+            android:name=".config"
+            android:exported="false" />
+        <activity
+            android:name=".boton8"
+            android:exported="false" />
+        <activity
+            android:name=".boton7"
+            android:exported="false" />
+        <activity
+            android:name=".boton6"
+            android:exported="false" />
+        <activity
+            android:name=".boton5"
+            android:exported="false" />
+        <activity
+            android:name=".boton4"
+            android:exported="false" />
+        <activity
             android:name=".boton3"
             android:exported="false" />
         <activity
